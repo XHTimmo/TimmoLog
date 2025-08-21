@@ -2,10 +2,11 @@
 ## 运行
 在终端使用命令`make run`即可观测输出结果(Markdown不支持颜色输出)
 
-终端显示效果如下
+### 终端显示效果如下
 ![1](./pic/terminal.png)
 
-日志文件显示效果如下：
+### 日志文件显示效果如下：
+vscode可以安装插件`ANSI Colors`以支持ANSI显示
 ![1](./pic/logfile.png)
 
 ## 说明
